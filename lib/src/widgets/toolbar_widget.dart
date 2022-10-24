@@ -1858,8 +1858,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                                         ),
                                         ElevatedButton(
                                           style: ElevatedButton.styleFrom(
-                                              backgroundColor: Theme.of(context)
-                                                  .dialogBackgroundColor,
+                                          
                                               padding: EdgeInsets.only(
                                                   left: 5, right: 5),
                                               elevation: 0.0),
@@ -1953,8 +1952,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                                       decoration: InputDecoration(
                                         prefixIcon: ElevatedButton(
                                           style: ElevatedButton.styleFrom(
-                                              backgroundColor: Theme.of(context)
-                                                  .dialogBackgroundColor,
+                                           
                                               padding: EdgeInsets.only(
                                                   left: 5, right: 5),
                                               elevation: 0.0),
@@ -2105,8 +2103,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                                       decoration: InputDecoration(
                                         prefixIcon: ElevatedButton(
                                           style: ElevatedButton.styleFrom(
-                                              backgroundColor: Theme.of(context)
-                                                  .dialogBackgroundColor,
+                                          
                                               padding: EdgeInsets.only(
                                                   left: 5, right: 5),
                                               elevation: 0.0),
@@ -2257,8 +2254,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                                       decoration: InputDecoration(
                                         prefixIcon: ElevatedButton(
                                           style: ElevatedButton.styleFrom(
-                                              backgroundColor: Theme.of(context)
-                                                  .dialogBackgroundColor,
+                                            
                                               padding: EdgeInsets.only(
                                                   left: 5, right: 5),
                                               elevation: 0.0),
@@ -2409,8 +2405,7 @@ class ToolbarWidgetState extends State<ToolbarWidget> {
                                       decoration: InputDecoration(
                                         prefixIcon: ElevatedButton(
                                           style: ElevatedButton.styleFrom(
-                                              backgroundColor: Theme.of(context)
-                                                  .dialogBackgroundColor,
+                                         
                                               padding: EdgeInsets.only(
                                                   left: 5, right: 5),
                                               elevation: 0.0),
